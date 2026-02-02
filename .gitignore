@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# ML models
+*.pt
+*.h5
+*.pkl
+
+# Flask uploads
+Flask Deployed App/static/uploads/
+
+# Environments
+venv/
+.env
